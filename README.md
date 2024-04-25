@@ -12,4 +12,8 @@ I'm always eager to learn new things, and I'm currently putting that passion to 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sohith18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img src="https://raw.githubusercontent.com/sohith18/sohith18/output/snake.svg" alt="Snake animation" />
+
+
