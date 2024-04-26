@@ -10,10 +10,20 @@ I'm always eager to learn new things, and I'm currently putting that passion to 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sohith18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sohith18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 
 <img src="https://raw.githubusercontent.com/sohith18/sohith18/output/snake.svg" alt="Snake animation" />
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohith18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
